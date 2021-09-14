@@ -1,3 +1,26 @@
+Lungs CT-based Classification for COVID19-vs-Non
+COVID19
+
+Data set information
+
+https://github.com/Sagar610/CE888-Covid19
+CT_COVID
+CT_NonCOVID
+
+this two folder contain 349 and 397 images of covid and noncovid
+
+Execution
+
+CE888_VGG16_COVID19.ipynb  this colab file contain all codes 
+
+Binary image classification using CNN model 
+there are severals models but I used VGG16 for COVID19
+* VGG16 and VGG19: This is a keras model with 16 and 19 layer network that has an input size of 224X224
+* ResNet50
+* DenseNet
+* MobileNet
+
+
 # TransferLearning_COVID19
 
 #### VGG16 improve Accuracy
