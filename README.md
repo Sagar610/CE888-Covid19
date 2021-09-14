@@ -1,5 +1,4 @@
-# Lungs CT-based Classification for COVID19-vs-Non
-COVID19
+# Lungs CT-based Classification for COVID19-vs-NonCOVID19
 
 ## Data set information
 
