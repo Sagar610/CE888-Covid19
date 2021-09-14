@@ -29,3 +29,17 @@
 | F1 Score:        | 0.87 |
 | AUC:             | 0.88 |
 
+
+#### Fine tuning VGG16 improve Accurecy
+
+|  Metrics |  Performance | 
+|---|---|
+|  Train Accuracy: | 0.99 |
+|  Val Accuracy:   | 0.91 |
+|  Test Accuracy:  | 0.90 |
+|   Precision:     | 0.88 |
+|   Recall:        | 0.84 |
+| F1 Score:        | 0.87 |
+| AUC:             | 0.90 |
+
+
