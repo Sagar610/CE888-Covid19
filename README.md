@@ -1,17 +1,17 @@
-Lungs CT-based Classification for COVID19-vs-Non
+# Lungs CT-based Classification for COVID19-vs-Non
 COVID19
 
-Data set information
+## Data set information
 
-https://github.com/Sagar610/CE888-Covid19
+#### https://github.com/Sagar610/CE888-Covid19
 CT_COVID
 CT_NonCOVID
 
 this two folder contain 349 and 397 images of covid and noncovid
 
-Execution
+## Execution
 
-CE888_VGG16_COVID19.ipynb  this colab file contain all codes 
+#### CE888_VGG16_COVID19.ipynb  this colab file contain all codes 
 
 Binary image classification using CNN model 
 there are severals models but I used VGG16 for COVID19
