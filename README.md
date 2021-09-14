@@ -1,5 +1,17 @@
 # TransferLearning_COVID19
 
+#### VGG16 improve Accuracy
+
+|  Metrics |  Performance | 
+|---|---|
+|  Train Accuracy: | 1.00 |
+|  Val Accuracy:   | 0.89 |
+|  Test Accuracy:  | 0.92 |
+|   Precision:     | 0.85 |
+|   Recall:        | 0.92 |
+| F1 Score:        | 0.89 |
+| AUC:             | 0.92 |
+
 
 ## Baseline results:
 
@@ -28,18 +40,4 @@
 |   Recall:        | 0.79 |
 | F1 Score:        | 0.87 |
 | AUC:             | 0.88 |
-
-
-#### Fine tuning VGG16 improve Accurecy
-
-|  Metrics |  Performance | 
-|---|---|
-|  Train Accuracy: | 1.00 |
-|  Val Accuracy:   | 0.89 |
-|  Test Accuracy:  | 0.92 |
-|   Precision:     | 0.85 |
-|   Recall:        | 0.92 |
-| F1 Score:        | 0.89 |
-| AUC:             | 0.92 |
-
 
